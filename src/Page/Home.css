@@ -127,6 +127,10 @@ input{
     margin: 2rem 0;
     padding: 2rem 0 0;
 }
+.errorText{
+    color: red;
+    font-size: .7rem;
+}
 
 
 
